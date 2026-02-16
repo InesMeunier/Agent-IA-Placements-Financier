@@ -1,0 +1,27 @@
+Lexique :
+1. Prime : Cotisation versée par le souscripteur à l'assureur 
+2. Rente : Somme versée de manière périodique (mensuellement, annuellement, etc...) 
+3. Bénéficiaire : Presonne désignée par le souscripteur du contrat, qui, selon le cas, percevra le capital ou la rente en cas de décès de l'assuré. En général, le souscripteur est également l'assuré. 
+4. Souscripteur : Personne qui conclut le contrat avec l'assureur et qui s'engage au paiement des cotisations ou des primes. 
+5. Assuré : Personne dont la vie, les actes ou les biens sont garantis par un contrat d'assurance. 
+6. Emancipé : Jeune âgé de 16 à 18 ans qui a obtenu par le juge les mêmes droits qu'une personne majeure avec l'accord de ses parents. 
+7. Capacité juridique : Aptitude d'une personne (physique ou morale) à avoir des droits et des obligations et à les exercer elle-même (exemples : droit de conclure un contrat, droit d'agir en justice) 
+8. Acte de disposition : Acte qui engage le patrimoine d'une personne, pour le présent ou l'avenir (exemples : vente d'un immeuble, conclusion d'un emprunt, donaiton). Il entraine une transmission de droits qui peut diminuer la valeur du patrimoine. 
+9. Représentants légaux : Personne qui exerce l'autorité parentale sur le mineur. De manière général, il s'agit des parents de l'enfant. S'ils sont décédés ou qu'ils sont privés de l'exercice de l'autorit éparental, un tuteur (exemple : autre membre de la famille) devient le représentant légal du mineur. 
+10. Souscripteur : Personne qui conclut le contrat avec l'assureur et qui s'engage au paiement des cotisations ou des primes. 
+11. Mandataire : Personne chargée par un autre de la représenter et d'agir en son nom. 
+12. Unités de compte (UC) : Parts d'un ensemble d'actifs financiers investis sur des supports diversifiés : actions, obligations, immobilier, fonds de placement... Leur valeur évolue à la hausse ou à la baisse. Le capital investi n'est pas garanti. 
+13. Fonds euros : Support de placement financier en euros. Le capital investi en euros est garanti.
+14. Rétrocession : Paiement à soi-même. 
+15. Valeur de rachat : Valeur de remboursement du capital en cas de dénouement anticipé du contrat. 
+16. Arbitrage : Opération qui consiste à déplacer tout ou partie de l'épargne d'un support d'investissement vers un autre. Il peut s'agir d'un transfert d'un fonds en euros vers un fonds en unités de compte, ou d'un transfert d'une unité de compte vers d'autres unités de compte. Cela permet de modifier la répartition de la valeur de rachat d'un contrat d'assurance vie multisupports. 
+17. Irrévocable : Définitif, sur lequel on ne peut pas revenir. 
+18. Jours calendaires : Correspond à la totalité des jours du calendrier de l'année civile, du 1er janvier au 31 décembre, y comprus les jours fériés ou chômés. 
+19. Avenant : Document complémentaire du contrat constatant une modification, une adaptation ou un complément qui y sont apportés d'un commun accord entre les 2 parties. 
+20. Notification : Formalité par laquelle un acte de procédure ou une décision est porté à la connaissance d'une personne. 
+21. Obligation : Titre financier qui correspond à un prêt d'argent à une entreprise ou à un état pour une durée définie. Ce prêt est rémnunéré par des intérêts périodiques. Le capital est remboursé au terme du prêt. 
+22. SCPI : Société Civile de Placement Immobilier
+23. OPCVM : Organisme de Placement Collectif en Valeurs Mobilières
+24. FIA : Fond d'investissement collectif autre que les organismes de placements collectifs de valeurs mobilières (OPCMV). 
+25. Parts de provisions de diversification : Quote-part de capital d'un contrat d'assurance vie euro-croissance investie dans des produits financiers potentiellement à risque. 
+26. Abattement : Réduction forfaitaire ou proportionnelle appliquée sur la base de calcul (revenus, valeur d'un bien, etc.) d'un impôt. 
